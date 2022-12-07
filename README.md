@@ -1,12 +1,12 @@
-### Oii, Sou o Adriano - aka Binhara 😀
+### Hi, i'm Adriano - aka Binhara 😀
 
-## Sou estudante, desenvolvedor e criador de conteúdo!!
+## I am a developer and content creator!
 
-- 🌱 Aperfeiçoando Xamarin 
-- 👯 Criando conteúdo de valor
-- 🥅  Planos 2022: Contribuir com jovens iniciando na programação
+- 🌱 Improving at Xamarin | Maui | Flutter 
+- 👯 Creating valuable content
+- 🥅 Plans 2023: Contributing to young people getting started in programming
 
-### Conecte comigo:
+### Connect with me:
 
 <div>
   <a href="https://www.youtube.com/channel/UCLKnx5qX7XsOUUmPedGtz3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
