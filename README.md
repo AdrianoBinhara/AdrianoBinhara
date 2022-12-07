@@ -2,9 +2,9 @@
 
 ## I am a developer and content creator!
 
-- 🌱 Improving at Xamarin | Maui | Flutter 
-- 👯 Creating valuable content
-- 🥅 Plans 2023: Contributing to young people getting started in programming
+- 🌱  Improving at Xamarin | Maui | Flutter 
+- 👯  Creating valuable content
+- 🥅  2023 Plans: Contributing to young people getting started in programming
 
 ### Connect with me:
 
