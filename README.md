@@ -4,7 +4,7 @@
 
 - 🌱  Improving at Xamarin | Maui | Flutter 
 - 👯  Creating valuable content
-- 🥅  2023 Plans: Contributing to young people getting started in programming
+- 🥅  Plans: Contributing to young people getting started in programming
 
 ### Connect with me:
 
