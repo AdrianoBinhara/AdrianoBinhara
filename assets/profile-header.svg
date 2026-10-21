@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Adriano Binhara</title>
+  <desc id="description">Independent builder. Apps, products, and the process behind them.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#F5F1E8" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="panel" x1="925" y1="87" x2="1135" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#26282A"/>
+      <stop offset="1" stop-color="#141516"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="380" rx="20" fill="#111213"/>
+  <rect width="1280" height="380" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="48" width="8" height="8" rx="4" fill="#FF784F"/>
+  <text x="69" y="58" fill="#C5C5C1" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">INDEPENDENT BUILDER / BRAZIL</text>
+  <text x="46" y="151" fill="#F5F1E8" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="63" letter-spacing="-3">Adriano Binhara.</text>
+  <text x="48" y="208" fill="#FF784F" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="35" letter-spacing="-1">Apps. Products. Built in public.</text>
+  <text x="48" y="251" fill="#ADAEAA" font-family="Arial, Helvetica, sans-serif" font-size="20">Engineering, design, and the process behind the launch.</text>
+  <path d="M48 291H772" stroke="#333536"/>
+  <text x="48" y="326" fill="#D4D5D1" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">MOBILE</text>
+  <circle cx="139" cy="321" r="2" fill="#FF784F"/>
+  <text x="160" y="326" fill="#D4D5D1" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">DESKTOP</text>
+  <circle cx="270" cy="321" r="2" fill="#FF784F"/>
+  <text x="291" y="326" fill="#D4D5D1" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">WEB</text>
+  <g transform="rotate(-9 1034 190)">
+    <rect x="891" y="76" width="265" height="234" rx="23" fill="#1C1E1F" stroke="#414242"/>
+    <rect x="913" y="96" width="221" height="192" rx="16" fill="url(#panel)" stroke="#3B3D3D"/>
+    <circle cx="936" cy="119" r="4" fill="#FF784F"/>
+    <circle cx="951" cy="119" r="4" fill="#565856"/>
+    <circle cx="966" cy="119" r="4" fill="#565856"/>
+    <path d="M936 140H1111" stroke="#3B3D3D"/>
+    <path d="M975 174L949 196L975 218M1070 174L1096 196L1070 218M1034 163L1011 229" stroke="#F5F1E8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="943" y="254" width="61" height="5" rx="2.5" fill="#FF784F"/>
+    <rect x="1014" y="254" width="35" height="5" rx="2.5" fill="#474A48"/>
+  </g>
+  <g transform="rotate(9 1154 261)">
+    <rect x="1097" y="182" width="112" height="158" rx="21" fill="#FF784F"/>
+    <rect x="1104" y="190" width="98" height="142" rx="16" fill="#1B1C1D"/>
+    <rect x="1137" y="198" width="31" height="5" rx="2.5" fill="#FF784F"/>
+    <path d="M1127 254L1144 271L1179 235" stroke="#F5F1E8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1139" y="317" width="28" height="3" rx="1.5" fill="#60625F"/>
+  </g>
+</svg>
